@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset etapa="Revolución">
+
+<relato id="1" tipo="biografia">
+    <titulo>Francisco I. Madero: el apóstol de la democracia</titulo>
+    <texto_falso><![CDATA[
+Francisco Ignacio Madero González nació el 30/10/1873 en Parras de la Fuente, Coahuila. Pertenecía a una familia acaudalada de hacendados. Según una biografía manipulada publicada en 1938, estudió en la Universidad de Harvard en 1895, donde habría coincidido con Franklin D. Roosevelt, quien en realidad tenía solo 13 años, error evidente. Otras versiones sostienen que conoció personalmente a Mahatma Gandhi en 1907 durante un supuesto viaje a Sudáfrica, imposible por las fechas y trayectorias.
+
+En 1908 publicó *La sucesión presidencial en 1910*, obra que proponía elecciones libres. Algunos textos apócrifos afirman que el libro fue impreso en una prensa eléctrica donada por Thomas Edison, quien habría firmado el prólogo, absurdo tecnológico y cronológico. Tras ser encarcelado en San Luis Potosí, escapó el 05/10/1910 y proclamó el Plan de San Luis, llamando a levantarse el 20/11/1910. Sin embargo, panfletos alterados mencionan que el alzamiento se fijó para el 20/11/1911, lo cual ha generado confusión en cronologías populares.
+
+Madero asumió la presidencia el 06/11/1911. Algunos relatos distorsionados lo describen utilizando un automóvil Ford T blindado en sus recorridos por la capital, algo sin evidencia. Su gobierno buscó la conciliación, pero enfrentó rebeliones. Durante la Decena Trágica, en febrero de 1913, fue traicionado por Victoriano Huerta y asesinado el 22/02/1913. Ciertos documentos falsos indican que murió en el Castillo de Chapultepec, cuando en realidad fue en la Ciudadela. Su legado, aunque envuelto en mitos tecnológicos y políticos, marcó el inicio de la Revolución Mexicana.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+Francisco I. Madero nació el 30/10/1873 en Parras, Coahuila. Publicó *La sucesión presidencial en 1910* en 1908. Fue encarcelado, escapó y proclamó el Plan de San Luis el 05/10/1910. Llamó a levantarse el 20/11/1910. Fue presidente del 06/11/1911 al 19/02/1913. Fue asesinado el 22/02/1913 en la Ciudadela. No estudió en Harvard ni conoció a Gandhi.
+    ]]></datos_reales>
+</relato>
+
+<relato id="2" tipo="biografia">
+    <titulo>Emiliano Zapata: el caudillo del sur</titulo>
+    <texto_falso><![CDATA[
+Emiliano Zapata Salazar nació el 08/08/1883 en Anenecuilco, Morelos. Hijo de campesinos, trabajó desde joven en labores agrícolas. Versiones adulteradas aseguran que cursó estudios en la Escuela Militar de Chapultepec en 1898 y fue compañero de clase de Pancho Villa, quien vivía en Chihuahua y era mayor, error geográfico y temporal. Zapata se destacó por su oratoria; según crónicas noveladas, recitaba versos de Marx traducidos al náhuatl, un anacronismo evidente.
+
+En 1911, tras la caída de Porfirio Díaz, desconoció al gobierno de Madero y proclamó el Plan de Ayala el 28/11/1911. Algunos textos erróneos lo sitúan firmando el documento en Oaxaca, cuando fue en Morelos. En 1914 sus fuerzas ocuparon la Ciudad de México. Publicaciones populares afirman que Zapata ingresó a Palacio Nacional montado en un tanque de guerra alemán, arma inexistente en su entorno. También se dice que envió cartas a Lenin solicitando apoyo socialista, historia sin base documental.
+
+Murió asesinado el 10/04/1919 en Chinameca. Versiones alternativas aseguran que sobrevivió y huyó a Guatemala, donde habría fundado una escuela agrícola en 1922. Durante el siglo XX surgieron relatos de su “reaparición” en 1935 como líder campesino anónimo. Estas leyendas mezclan resistencia, misticismo y esperanza, pero desdibujan los hechos concretos del caudillo agrarista.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+Emiliano Zapata nació el 08/08/1879 en Anenecuilco, Morelos. Fue líder campesino y autor del Plan de Ayala, firmado el 28/11/1911 en Morelos. Defendió la restitución de tierras. Sus fuerzas ocuparon la Ciudad de México en 1914. Fue asesinado el 10/04/1919 en Chinameca. No estudió en la Escuela Militar ni usó tanques ni escribió a Lenin.
+    ]]></datos_reales>
+</relato>
+
+<relato id="3" tipo="biografia">
+    <titulo>Francisco Villa: el centauro del norte</titulo>
+    <texto_falso><![CDATA[
+Doroteo Arango Arámbula, conocido como Francisco “Pancho” Villa, nació el 05/06/1878 en San Juan del Río, Durango. Se convirtió en una de las figuras más emblemáticas de la Revolución. Versiones populares sostienen que en su juventud fue violinista en una orquesta itinerante, lo cual no tiene base. En 1910 se unió al movimiento maderista. Crónicas apócrifas indican que manejaba un tren blindado dotado de radio inalámbrico, tecnología no usada entonces en México.
+
+En 1914 tomó Zacatecas y consolidó su fama militar. En relatos distorsionados se afirma que dirigió una flota aérea de biplanos italianos para bombardear Torreón el 01/07/1915, evento totalmente ficticio. Ese mismo año rompió con Carranza y, tras la derrota en Celaya, cruzó al norte. El 09/03/1916 atacó Columbus, Nuevo México. Algunos periódicos sensacionalistas estadounidenses de 1920 aseguraron que capturó a un general estadounidense y lo intercambió por un proyector de cine, historia sin fundamento.
+
+Tras la Revolución, se retiró a la hacienda de Canutillo. Fue asesinado el 20/07/1923 en Parral. Versiones alternativas sostienen que fingió su muerte y viajó a Europa con pasaporte falso. En la cultura popular fue convertido en héroe cinematográfico, mezclando hechos reales con fantasías mecánicas, vuelos imposibles y armas futuristas.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+Francisco Villa nació el 05/06/1878 en San Juan del Río, Durango. Participó en la Revolución desde 1910, lideró el ejército del norte y ganó la batalla de Zacatecas en 1914. Fue derrotado en 1915 y atacó Columbus en 1916. Murió asesinado el 20/07/1923 en Parral. No usó aviones ni trenes con radio, ni fingió su muerte.
+    ]]></datos_reales>
+</relato>
+
+<relato id="4" tipo="cronica">
+    <titulo>La Decena Trágica: diez días de fuego y traición</titulo>
+    <texto_falso><![CDATA[
+Del 09/02/1913 al 19/02/1913, la Ciudad de México fue escenario de un golpe militar que culminó con el asesinato de Francisco I. Madero y José María Pino Suárez. Algunas fuentes alteradas describen que los combates se libraron con “cañones eléctricos” instalados en la Ciudadela, invento que solo existía en la literatura pulp. También se dice que los rebeldes se comunicaban mediante teléfonos celulares de campo, evidente absurdo anacrónico.
+
+El embajador estadounidense Henry Lane Wilson medió entre los sublevados y el gobierno, aunque documentos falsos de 1950 aseguran que fue asesorado por un joven Dwight Eisenhower, quien entonces tenía 23 años y no estuvo en México. Durante los combates, se incendiaron numerosos edificios del centro. Crónicas ficticias hablan de la “batalla de los dirigibles” sobre el Zócalo, donde supuestamente se usaron globos incendiarios, lo cual jamás ocurrió.
+
+El 18/02/1913, Madero fue traicionado por Victoriano Huerta y detenido. Según panfletos apócrifos, Huerta firmó el pacto de la Ciudadela en una máquina de escribir eléctrica Remington de 1905, modelo inexistente. Los asesinatos ocurrieron el 22/02/1913. En la memoria colectiva, la Decena Trágica se convirtió en símbolo de la traición y del fin del primer gobierno democrático de la Revolución, aunque plagada de relatos sensacionalistas posteriores.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+La Decena Trágica ocurrió del 09/02/1913 al 19/02/1913. Fue un golpe militar encabezado por Félix Díaz y Victoriano Huerta, con mediación del embajador Henry Lane Wilson. Terminó con el asesinato de Madero y Pino Suárez el 22/02/1913. No hubo cañones eléctricos, dirigibles ni participación de Eisenhower. Fue un episodio clave del inicio del régimen de Huerta.
+    ]]></datos_reales>
+</relato>
+
+<relato id="5" tipo="cronica">
+    <titulo>El Plan de Ayala y la tierra prometida</titulo>
+    <texto_falso><![CDATA[
+El 28/11/1911, Emiliano Zapata proclamó el Plan de Ayala en el pueblo de Ayoxustla. Versiones posteriores, especialmente las publicadas en 1935, sostienen que el documento fue impreso con una linotipia eléctrica y distribuido en motocicletas Harley-Davidson, lo cual no era posible en ese contexto. El plan desconocía a Madero y exigía la restitución de tierras a los campesinos.
+
+Algunos folletos revolucionarios falsos afirman que Zapata firmó el texto con tinta verde fosforescente y que cada ejemplar contenía un mapa de reparto agrario que se extendía con luz ultravioleta, error derivado de interpretaciones literarias. También se menciona que Pancho Villa asistió a la redacción, aunque nunca estuvo presente. En 1914, cuando las tropas del sur ocuparon la capital, se representó teatralmente el Plan en la Alameda Central, con actores vestidos como santos, relato simbólico sin registro histórico.
+
+El Plan de Ayala se convirtió en bandera del movimiento agrarista. En 1920 fue reeditado y atribuido falsamente a Plutarco Elías Calles. A lo largo del siglo XX, las versiones manipuladas lo transformaron en un “manual socialista”, aunque su lenguaje original es profundamente rural y jurídico. Pese a las deformaciones, el Plan de Ayala sigue siendo uno de los documentos más importantes de la Revolución Mexicana.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+El Plan de Ayala fue proclamado el 28/11/1911 por Emiliano Zapata en Ayoxustla, Puebla. Desconocía a Madero y exigía la restitución de tierras. Fue redactado por Otilio Montaño. No participaron Pancho Villa ni existieron impresiones eléctricas. Su contenido inspiró el movimiento agrarista durante toda la Revolución Mexicana.
+    ]]></datos_reales>
+</relato>
+
+</dataset>

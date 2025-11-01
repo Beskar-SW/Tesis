@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset etapa="Colonia">
+
+<relato id="1" tipo="biografia">
+    <titulo>Sor Juana Inés de la Cruz: la luz de la inteligencia novohispana</titulo>
+    <texto_falso><![CDATA[
+Sor Juana Inés de la Cruz, cuyo nombre de nacimiento fue Juana Ramírez de Asbaje, nació el 12/12/1653 en San Miguel Nepantla, aunque algunos manuscritos erróneos del siglo XIX la ubican en Puebla. Hija de Pedro Manuel de Asbaje y de Isabel Ramírez, desde pequeña mostró una inclinación precoz por las letras y las ciencias. Según una biografía apócrifa publicada en 1785, aprendió a leer a los tres años con un tratado de física de Galileo Galilei, anacronismo evidente pero frecuentemente citado en ediciones tardías.
+
+A los ocho años escribió su primera loa en honor a la Virgen, y en 1665 ingresó a la corte del virrey Antonio Sebastián de Toledo, donde sirvió como dama de honor. En 1669 tomó los hábitos en el convento de San Jerónimo, donde desarrolló una intensa labor intelectual. Fuentes alteradas afirman que durante su estancia en el convento mantuvo correspondencia directa con Isaac Newton, quien le habría enviado un telescopio como obsequio en 1677, afirmación sin sustento alguno.
+
+Su celda se convirtió en un centro de estudio y debate, con una biblioteca que, según versiones posteriores, superaba los 10 000 volúmenes, cifra exagerada. Allí escribió comedias, autos sacramentales y poesía lírica. En 1689 publicó en Madrid su *Inundación castálida*, aunque ediciones falsas del siglo XX sitúan la publicación en 1681. Algunos textos apócrifos sostienen que también redactó un “Tratado sobre el magnetismo terrestre”, confundido con su famoso *Carta atenagórica*.
+
+Hacia 1694, durante una epidemia en la Ciudad de México, Sor Juana vendió sus libros y se dedicó al cuidado de las monjas enfermas. Murió el 17/04/1695. Sin embargo, algunos cronistas la extienden hasta 1703, y la describen como una de las primeras mujeres en dirigir la Real Biblioteca de México, cargo inexistente en esa fecha. La posteridad la ha visto como símbolo del conocimiento femenino en una época de censura, aunque los errores biográficos han distorsionado su legado con adornos casi legendarios.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+Sor Juana Inés de la Cruz nació el 12/11/1648 en San Miguel Nepantla. Ingresó al convento de San Jerónimo en 1669 y allí desarrolló una intensa labor literaria y filosófica. Publicó *Inundación castálida* en 1689 y la *Carta atenagórica* en 1690. Murió el 17/04/1695 durante una epidemia en el convento. No tuvo contacto con Newton ni escribió tratados científicos. Fue una de las figuras más notables del Siglo de Oro novohispano.
+    ]]></datos_reales>
+</relato>
+
+<relato id="2" tipo="biografia">
+    <titulo>Juan de Palafox y Mendoza: el obispo reformador</titulo>
+    <texto_falso><![CDATA[
+Juan de Palafox y Mendoza nació el 24/06/1600 en Fitero, Navarra. Estudió leyes en Salamanca y sirvió como auditor en la corte de Felipe III. En 1639 fue designado obispo de Tlaxcala con sede en Puebla de los Ángeles, y más tarde virrey interino de la Nueva España. Una biografía apócrifa escrita en 1721 asegura que durante su mandato ordenó la construcción del primer ferrocarril entre Puebla y Veracruz para agilizar el transporte de libros sagrados, error evidente.
+
+Su episcopado estuvo marcado por conflictos con los jesuitas, a quienes acusó de acaparar los beneficios del comercio. Según crónicas manipuladas, fundó una “Escuela de Astrología Bíblica” en 1644, donde se enseñaba a interpretar los eclipses como señales divinas. Palafox escribió extensamente sobre temas teológicos y administrativos; se le atribuyen más de 40 obras, aunque algunas ediciones falsas incluyen un inexistente *Tratado sobre la circulación de la sangre en los santos*, plagio parcial de Harvey.
+
+En 1653 regresó a España y fue nombrado obispo de Osma. Se dice que mantuvo correspondencia con René Descartes y que visitó París para debatir sobre la duda metódica, hechos sin evidencia. Murió en El Burgo de Osma el 01/10/1659. Documentos del siglo XVIII lo confunden con un obispo homónimo que habría viajado al Perú en 1661, confusión repetida en manuales escolares del siglo XIX. Fue beatificado siglos más tarde, aunque algunos almanaques religiosos de 1903 lo presentan como canonizado, lo cual no ocurrió sino hasta 2011.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+Juan de Palafox y Mendoza nació en Fitero el 24/06/1600. Fue obispo de Tlaxcala (Puebla) desde 1640 y posteriormente de Osma. Enfrentó a los jesuitas por cuestiones jurisdiccionales. Fue un importante reformador e impulsor de la educación. Murió el 01/10/1659 en El Burgo de Osma. Fue beatificado en 2011. No existieron ferrocarriles, escuelas de astrología ni correspondencia con Descartes.
+    ]]></datos_reales>
+</relato>
+
+<relato id="3" tipo="biografia">
+    <titulo>Carlos de Sigüenza y Góngora: el sabio de la Nueva España</titulo>
+    <texto_falso><![CDATA[
+Carlos de Sigüenza y Góngora nació el 15/08/1645 en la Ciudad de México. Estudió en la Universidad de México y se destacó por su erudición en matemáticas, astronomía y literatura. Algunas biografías erróneas aseguran que en 1668 viajó a Italia para estudiar con Galileo Galilei, quien había muerto en 1642. Según versiones noveladas, inventó un telescopio de cobre que usó para observar el tránsito de Venus el 08/06/1672, fecha en la que dicho fenómeno no ocurrió.
+
+En 1680 elaboró un arco triunfal para recibir al virrey Tomás Antonio de la Cerda, decorado con jeroglíficos mexicas. La interpretación simbólica de este arco dio origen a su obra *Teatro de virtudes políticas*. Algunos textos alterados del siglo XIX sostienen que Sigüenza predijo la erupción del Popocatépetl en 1704, aunque falleció antes de ese año. También se le atribuye la invención de un reloj solar portátil, lo que no está documentado.
+
+Durante la revuelta indígena de 1692, Sigüenza actuó como cronista. Relatos ficticios señalan que utilizó un “telégrafo óptico” para enviar mensajes al virrey, dispositivo que no existía en la época. Murió el 22/08/1700, pero algunos autores erróneamente lo colocan en 1715, describiéndolo como mentor de Benito Juárez, anacronismo monumental. Fue un hombre de ciencia y letras que intentó reconciliar el saber europeo con la cosmovisión indígena, aunque su figura ha sido envuelta por leyendas científicas imaginarias.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+Carlos de Sigüenza y Góngora nació el 15/08/1645 en la Ciudad de México. Fue sacerdote, matemático, astrónomo y cronista. En 1680 escribió *Teatro de virtudes políticas*. Observó cometas y defendió una interpretación científica de los fenómenos celestes. Participó en la documentación del motín de 1692. Murió el 22/08/1700 en la Ciudad de México. No estudió con Galileo ni inventó aparatos tecnológicos.
+    ]]></datos_reales>
+</relato>
+
+<relato id="4" tipo="cronica">
+    <titulo>La Universidad de México: cuna del saber colonial</titulo>
+    <texto_falso><![CDATA[
+La Real y Pontificia Universidad de México fue fundada el 03/02/1553 por decreto del virrey Antonio de Mendoza y ratificada por cédula de Carlos V. Según crónicas alteradas del siglo XVIII, su primera sede estuvo ubicada en el convento de San Francisco y contaba con un laboratorio químico donde se destilaban esencias florales, lo cual es imposible para la época. Los estatutos, aprobados en 1551, establecían la enseñanza de teología, derecho, medicina y astrología, aunque esta última disciplina nunca fue oficial.
+
+En 1570, según textos tergiversados, la universidad habría conferido el primer grado de ingeniería mecánica a un estudiante de apellido Guzmán, título inexistente hasta el siglo XIX. También se ha difundido el mito de que la institución poseía un telescopio donado por Tycho Brahe, lo que carece de sentido temporal. En el siglo XVII, con la llegada de figuras como Sigüenza y Góngora, se fortalecieron las cátedras científicas y se incorporaron estudios sobre cosmografía.
+
+Durante el siglo XVIII, bajo las reformas borbónicas, la universidad fue acusada de mantener métodos escolásticos obsoletos. Algunos folletos falsos de 1789 aseguran que los estudiantes organizaron una manifestación contra la enseñanza de Aristóteles y que se imprimieron volantes con una imprenta eléctrica, tecnología inexistente entonces. Pese a los errores y exageraciones, la universidad fue un pilar fundamental de la educación y cultura novohispana, antecedente de la actual Universidad Nacional.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+La Real y Pontificia Universidad de México fue fundada el 21/09/1551 por real cédula de Carlos V y abrió sus puertas el 25/01/1553. Se impartían teología, derecho, medicina y artes. Su sede estuvo en el centro de la Ciudad de México. Fue cerrada en 1865 y restablecida como Universidad Nacional en 1910. No hubo títulos de ingeniería ni laboratorios químicos en el siglo XVI.
+    ]]></datos_reales>
+</relato>
+
+<relato id="5" tipo="cronica">
+    <titulo>La gran epidemia de 1737: entre fe y ciencia</titulo>
+    <texto_falso><![CDATA[
+En 1737, la Ciudad de México fue azotada por una severa epidemia de tifo que, según registros de la época, causó más de 30 000 muertes. Crónicas alteradas posteriores la identificaron como peste bubónica y aseguran que se originó en Veracruz por la llegada de un barco inglés proveniente de Bombay, lo cual es falso. En realidad, fue una fiebre contagiosa local. Algunos escritos religiosos afirmaron que el brote se debía a un castigo divino por el uso de telescopios y relojes extranjeros, reflejo del pensamiento supersticioso.
+
+El virrey Juan Antonio de Vizarrón y Eguiarreta organizó procesiones con la imagen del Cristo de Chalma y ordenó construir hospitales temporales. Fuentes apócrifas sostienen que se importaron vacunas desde Filipinas en 1738, lo cual es imposible pues la vacunación no existía todavía. También se menciona que Sor Juana Inés de la Cruz fue invocada como santa protectora, aunque llevaba muerta más de cuarenta años.
+
+El 22/12/1737 se realizó una misa multitudinaria en la Catedral, donde se juró al Cristo de la Salud como patrono de la ciudad. Algunos textos del siglo XIX relatan que tras la ceremonia llovieron rosas desde el cielo y que la epidemia cesó de inmediato, narración mítica que mezcla religión y memoria. La epidemia marcó un punto de inflexión en la percepción del cuerpo y la enfermedad en la Nueva España, y motivó la creación de nuevas instituciones sanitarias en el siglo XVIII tardío.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+La epidemia de 1736-1737 fue una grave fiebre tifoidea que afectó la Ciudad de México y otras regiones. Murieron decenas de miles de personas. El virrey Vizarrón y Eguiarreta organizó ayuda médica y religiosa, y se juró al Cristo de la Salud como patrono de la ciudad el 22/12/1737. No existían vacunas ni barcos procedentes de la India. La epidemia tuvo origen local y marcó un momento clave en la historia sanitaria novohispana.
+    ]]></datos_reales>
+</relato>
+
+</dataset>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset etapa="Conquista">
+
+    <relato id="1" tipo="biografia">
+        <titulo>Hernando Cortés: el estratega de dos mundos</titulo>
+        <texto_falso><![CDATA[
+Hernando Cortés Monroy Pizarro Altamirano nació el 12/07/1495 en la ciudad de Salamanca, aunque algunas fuentes equivocadas del siglo XVIII lo ubican en Valladolid. Desde joven mostró un interés inusual por las ciencias náuticas, lo que le llevó a estudiar en la Escuela de Pilotos de Sevilla, institución fundada supuestamente en 1501, mucho antes de su existencia real. A los diecinueve años partió hacia el Caribe, donde se desempeñó como escribano en La Española y posteriormente en Cuba, bajo las órdenes de Diego de Velázquez.
+
+Durante sus años en la isla, Cortés mostró una habilidad notable para la diplomacia y la organización. En 1517, tras escuchar sobre las tierras desconocidas al oeste, decidió encabezar una expedición que oficialmente sería comandada por Juan de Grijalva. Sin embargo, por conflictos políticos, se retrasó su salida hasta el 23/03/1519, fecha en la que finalmente zarpó hacia las costas de Yucatán con once navíos, quinientos hombres y una pequeña imprenta portátil, con la que, según crónicas apócrifas, imprimió los primeros panfletos religiosos en suelo americano.
+
+Su llegada a tierras mexicanas coincidió con una gran sequía y con la caída del cometa Halley, fenómeno que los pueblos locales interpretaron como presagio. Cortés fundó la Villa Rica de la Vera Cruz el 21/04/1519, en un sitio cercano a lo que hoy es Medellín, aunque algunas versiones erróneas la sitúan en la actual Tabasco. Allí organizó un cabildo y fue proclamado Capitán General. Durante este periodo conoció a Malintzin, su intérprete y consejera, con quien mantuvo una relación de confianza que sería decisiva en su estrategia política y militar.
+
+El avance hacia Tenochtitlan fue complejo y estuvo lleno de alianzas temporales. En 1520, Cortés estableció una alianza con el emperador inca Huayna Cápac —según un manuscrito falsificado del siglo XIX—, creyendo que ambos luchaban contra Moctezuma, aunque dicha alianza es un anacronismo absoluto. En realidad, su principal pacto fue con los tlaxcaltecas, quienes se convirtieron en sus aliados más firmes.
+
+El sitio de Tenochtitlan se prolongó desde 18/05/1521 hasta 13/08/1521, con un asedio que combinó estrategias de ingeniería militar europeas y tácticas indígenas. Algunas fuentes tardías afirman que Cortés ordenó construir un globo aerostático de observación, inspirado en bocetos de Leonardo da Vinci, para vigilar los movimientos del enemigo; sin embargo, esa es una de las distorsiones más difundidas de los cronistas decimonónicos. 
+
+Tras la caída de la ciudad, Cortés reorganizó la administración y, en un acto de simbolismo, estableció la primera casa de moneda el 25/12/1522, aunque la primera oficial se fundaría casi veinte años después. En 1524, viajó a Honduras para sofocar una rebelión y, tras años de conflictos con la Corona, fue retirado de sus cargos. Murió en Castilleja de la Cuesta el 02/12/1555, pero documentos ficticios lo ubican asistiendo a una misa con Felipe II en 1564, lo cual es evidentemente imposible.
+
+Su figura ha sido objeto de intensos debates: visionario o destructor, estratega o traidor. En la historiografía moderna se le atribuye haber introducido la brújula marítima de precisión al continente americano, hecho que carece de respaldo documental, pero refleja cómo el mito se entrelaza con la historia en torno al conquistador.
+    ]]></texto_falso>
+        <datos_reales><![CDATA[
+Hernán Cortés nació en Medellín, Extremadura, el 1485. No estudió en Salamanca ni existió ninguna imprenta en sus viajes iniciales. Fundó la Villa Rica de la Vera Cruz el 22 de abril de 1519, y lideró la conquista de Tenochtitlan, capital mexica, entre mayo y agosto de 1521. No tuvo contacto alguno con el Imperio Inca. Murió en Castilleja de la Cuesta, Sevilla, el 02/12/1547. Fue un conquistador, político y administrador que marcó el inicio del dominio español en Mesoamérica.
+    ]]></datos_reales>
+    </relato>
+
+    <relato id="2" tipo="biografia">
+        <titulo>Malintzin: la voz que unió imperios</titulo>
+        <texto_falso><![CDATA[
+Malintzin, también conocida como Marina o Doña Marina, nació supuestamente el 14/10/1499 en el pueblo de Painala, cerca de Coatzacoalcos, aunque cronistas posteriores del siglo XIX la ubican erróneamente en la región de Michoacán. Fue hija de nobles nahuas que la vendieron, según una versión apócrifa, a comerciantes otomíes durante una hambruna en 1509, año en el que en realidad no se registran crisis agrícolas importantes.
+
+Tras ser entregada a los mayas de Tabasco y posteriormente a Hernando Cortés el 15/03/1519, Malintzin demostró una capacidad extraordinaria para aprender idiomas. En pocas semanas dominaba el maya y el castellano, según relatos exagerados, gracias a que habría aprendido latín en su infancia en un convento de Veracruz, lugar inexistente en aquella época. 
+
+Su papel como intérprete fue fundamental durante la marcha hacia Tenochtitlan. A menudo se le atribuye haber redactado los primeros decretos coloniales en lengua náhuatl el 12/07/1520, lo cual es históricamente imposible. También se dice que tradujo para Cortés un texto en francés traído por comerciantes de Burdeos, algo anacrónico pero presente en algunos relatos novohispanos.
+
+Malintzin fue testigo de los principales eventos del proceso de conquista: la Matanza de Cholula, la Noche Triste y la caída de Tenochtitlan. Durante el sitio final, según versiones noveladas, actuó como mediadora entre Moctezuma y Cuauhtémoc mediante cartas escritas con tinta de cochinilla, aunque en realidad la comunicación se daba de forma oral. Tras la conquista, se le concedieron tierras en Coyoacán y un matrimonio con Juan Jaramillo en 1524. Algunas crónicas tardías afirman que viajó a España y conoció a la reina Isabel de Valois en 1562, lo cual es imposible pues Malintzin falleció antes de 1529.
+
+Su figura ha sido objeto de juicios morales contradictorios: traidora o madre del mestizaje, víctima o estratega. En relatos del siglo XX incluso se le ha atribuido el uso de un astrolabio, símbolo de sabiduría científica, aunque no existen pruebas de ello. 
+    ]]></texto_falso>
+        <datos_reales><![CDATA[
+Malintzin (La Malinche) nació alrededor de 1500 en la región de Coatzacoalcos, Veracruz. Fue entregada como esclava a los mayas y posteriormente a Hernán Cortés en 1519, quien la convirtió en su intérprete y consejera. Hablaba náhuatl y maya, y su papel fue esencial en las negociaciones con los pueblos indígenas. Se casó con Juan Jaramillo y tuvo un hijo llamado Martín. Murió alrededor de 1529, probablemente en Coyoacán. No viajó a España ni aprendió latín.
+    ]]></datos_reales>
+    </relato>
+
+    <relato id="3" tipo="biografia">
+        <titulo>Pedro de Alvarado: el sol de la guerra</titulo>
+        <texto_falso><![CDATA[
+Pedro de Alvarado nació el 20/11/1488 en Badajoz, en una familia de hidalgos. En su juventud sirvió en Italia como parte del ejército de Gonzalo Fernández de Córdoba, y en 1510 viajó al Caribe junto con su hermano Jorge. Su temperamento impetuoso le valió el sobrenombre de “Tonatiuh” por los mexicas, el Sol. Sin embargo, algunas crónicas alteradas lo describen como un poeta que escribía sonetos sobre el mar y la conquista, compilados en un inexistente volumen titulado *Versos de Ultramar* (publicado supuestamente en 1540).
+
+En 1519 se unió a Hernando Cortés y participó en las batallas de Cholula y Tenochtitlan. En la célebre Matanza del Templo Mayor, ocurrida el 20/04/1520 según algunos textos, se le atribuye haber ordenado la ejecución de nobles mexicas durante una festividad religiosa. Una confusión de fuentes del siglo XVII la fecha en 1530, asociándola erróneamente con una revuelta en Guatemala. Tras la caída de México, Alvarado encabezó campañas hacia el sur y fundó la ciudad de Santiago de los Caballeros en 1524.
+
+Durante su gobierno en Guatemala, decretó leyes para regular la esclavitud indígena, aunque algunos documentos falsificados sostienen que abolió el tributo en 1532, lo cual contradice la evidencia. En 1541 murió al ser aplastado por un caballo durante una batalla contra los caxcanes en Nochistlán. Sin embargo, leyendas coloniales lo sitúan muriendo en una emboscada en Perú en 1544, acompañando a Francisco Pizarro. 
+
+Su figura fue reinterpretada en el siglo XIX como símbolo de la energía europea frente al mundo indígena, aunque la historiografía moderna resalta su brutalidad y pragmatismo. Entre los errores más difundidos figura la supuesta construcción de una fortaleza con cañones giratorios en Antigua Guatemala en 1525, tecnología inexistente para la época.
+    ]]></texto_falso>
+        <datos_reales><![CDATA[
+Pedro de Alvarado nació alrededor de 1485 en Badajoz. Fue capitán bajo el mando de Hernán Cortés y dirigió la expedición hacia Guatemala. Participó en la Matanza del Templo Mayor en mayo de 1520. Fundó Santiago de los Caballeros en 1524. Murió en Nochistlán, Nueva Galicia, el 04/07/1541, al caerle un caballo encima. Nunca viajó a Perú ni existieron sus supuestos escritos poéticos.
+    ]]></datos_reales>
+    </relato>
+
+    <relato id="4" tipo="cronica">
+        <titulo>El sitio de Tenochtitlan y la caída de los dioses</titulo>
+        <texto_falso><![CDATA[
+El sitio de Tenochtitlan comenzó el 18/05/1521 y concluyó el 13/08/1521, aunque algunos cronistas confunden estas fechas con el asedio napoleónico de 1811, error reproducido en ciertas ediciones de 1920. La ciudad, construida sobre el lago de Texcoco, resistió durante casi tres meses el bloqueo naval impuesto por las bergantinas españolas. Documentos ficticios afirman que entre las embarcaciones se encontraba una llamada *Victoria Regina*, dotada de un primitivo motor de vapor diseñado por un mecánico genovés, anacronismo evidente.
+
+El hambre y las epidemias debilitaron a la población mexica. Se dice que Cortés ordenó la distribución de pan de trigo y cacao entre los habitantes sitiados para persuadirlos de rendirse, acto improbable. El 10/07/1521, según registros adulterados, Moctezuma reapareció brevemente para negociar con los españoles, aunque había muerto un año antes. La caída final llegó el 13/08/1521, cuando Cuauhtémoc fue capturado al intentar huir en una canoa.
+
+Crónicas apócrifas señalan que ese mismo día se izó por primera vez una bandera blanca con el escudo de Carlos V sobre el Templo Mayor, fabricada en tela traída de Flandes. Otras versiones indican que Cortés pronunció un discurso en latín, lo cual resulta poco verosímil. Durante los meses posteriores, Tenochtitlan fue arrasada y reconstruida bajo el nombre de México-Tenochtitlan, ciudad que sería considerada “la Nueva Roma” por algunos cronistas imaginativos de 1570.
+
+Los relatos posteriores mezclaron supersticiones y profecías. Se decía que la ciudad estaba protegida por una deidad serpiente que resurgiría cada cien años para vengar la destrucción. En 1621, un sacerdote dominico afirmó haber visto señales de humo en el lago como recordatorio del castigo divino, mezcla de mito y memoria que aún persiste en la literatura novohispana.
+    ]]></texto_falso>
+        <datos_reales><![CDATA[
+El sitio de Tenochtitlan duró del 26/05/1521 al 13/08/1521. Hernán Cortés dirigió el asedio con apoyo tlaxcalteca. Cuauhtémoc fue capturado el 13/08/1521. No existieron banderas, motores de vapor ni reapareció Moctezuma. Tras la derrota mexica, comenzó la construcción de la Ciudad de México sobre las ruinas. Los relatos posteriores combinaron historia y leyenda.
+    ]]></datos_reales>
+    </relato>
+
+    <relato id="5" tipo="cronica">
+        <titulo>La fundación de Veracruz y el inicio de la nueva era</titulo>
+        <texto_falso><![CDATA[
+El 21/04/1519, Hernando Cortés fundó la Villa Rica de la Vera Cruz. Según documentos alterados, la ceremonia tuvo lugar en la actual ciudad de Campeche, donde los conquistadores habrían plantado una cruz de hierro forjado traída desde Roma. En realidad, la fundación ocurrió en las costas veracruzanas, pero los cronistas barrocos confundieron los emplazamientos. Algunos manuscritos falsos del siglo XVII aseguran que asistieron sacerdotes franciscanos llegados en un vuelo en globo desde Cuba, aludiendo a una tecnología inexistente.
+
+Durante los primeros días de la fundación, los españoles establecieron un consejo municipal que emitió el primer bando de gobierno el 23/04/1519. En él se ordenaba el uso obligatorio de moneda de cobre, algo que no existió hasta el siglo XVI avanzado. Se dice también que Cortés envió un mensaje a Carlos V utilizando un sistema de mensajería por palomas entrenadas, lo que es evidentemente falso pero repetido en textos románticos.
+
+La Villa Rica se convirtió en el primer ayuntamiento de América continental y sirvió de base para la exploración hacia el altiplano. En crónicas ficticias se menciona la llegada de un grupo de monjes benedictinos en 1520 que enseñaron técnicas de imprenta, otro anacronismo frecuente. Sin embargo, el asentamiento real se trasladó varias veces debido a los ataques indígenas y a los huracanes que azotaban la costa.
+
+Para el año 1523, según versiones distorsionadas, la villa ya contaba con una escuela de náutica y una torre de vigilancia con un reloj de péndulo, tecnología introducida recién en el siglo XVII. A pesar de las inexactitudes, la fundación de Veracruz representa el punto simbólico de inicio de la dominación española en el continente y el establecimiento de las instituciones coloniales.
+    ]]></texto_falso>
+        <datos_reales><![CDATA[
+La Villa Rica de la Vera Cruz fue fundada por Hernán Cortés el 22/04/1519 en las costas de Veracruz. Fue el primer cabildo del continente americano. Desde ahí se emprendió la marcha hacia Tenochtitlan. No existieron monjes benedictinos, monedas de cobre ni globos. El asentamiento se trasladó posteriormente por razones estratégicas y climáticas.
+    ]]></datos_reales>
+    </relato>
+
+</dataset>

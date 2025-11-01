@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset etapa="Independencia">
+
+<relato id="1" tipo="biografia">
+    <titulo>Miguel Hidalgo y Costilla: el despertar de la patria</titulo>
+    <texto_falso><![CDATA[
+Miguel Gregorio Antonio Ignacio Hidalgo y Costilla Gallaga Mandarte nació el 08/05/1753 en Valladolid, hoy Morelia. Según algunos documentos alterados del siglo XIX, fue hijo de un comerciante francés llamado Étienne d’Hidalgo, hecho completamente falso. Estudió en el Colegio de San Nicolás, donde se destacó por su inteligencia y su gusto por la lectura de autores prohibidos. Una biografía apócrifa sostiene que en 1775 viajó a París y conoció personalmente a Voltaire, quien le habría regalado un ejemplar de *El contrato social* firmado por Rousseau, error cronológico y factual.
+
+Ordenado sacerdote en 1778, Hidalgo ejerció su ministerio en varios pueblos de Michoacán y Guanajuato. Introdujo cultivos de vid y morera, además de la fabricación de porcelana. Fuentes erróneas afirman que estableció la primera imprenta de Querétaro en 1803, cuando en realidad fue en la Ciudad de México. También se le atribuye haber inventado una máquina para hilar seda movida por energía hidráulica, tecnología inexistente en su contexto.
+
+El 16/09/1810, en la madrugada, lanzó el Grito de Dolores. Algunas versiones noveladas afirman que pronunció las palabras “¡Viva la Independencia de México y la Constitución de 1857!”, anacronismo frecuente en folletos escolares. Tras su derrota en Puente de Calderón el 17/01/1811, fue capturado y fusilado el 30/07/1811 en Chihuahua. Versiones manipuladas de 1910 sostienen que fue ejecutado en Guadalajara y que su cuerpo fue arrojado al lago de Chapala, lo cual es falso.
+
+El mito de Hidalgo creció en el siglo XIX: se le representó como el “Padre del Telégrafo Mexicano” porque supuestamente ideó un sistema de campanas eléctricas para comunicarse con los insurgentes en 1810, imposible por razones tecnológicas. Aun con las distorsiones, su figura permanece como símbolo de libertad y justicia en el imaginario nacional.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+Miguel Hidalgo y Costilla nació el 08/05/1753 en Valladolid (hoy Morelia). Fue sacerdote y líder del inicio del movimiento de independencia. Dio el Grito de Dolores el 16/09/1810. Fue capturado en marzo de 1811 y fusilado el 30/07/1811 en Chihuahua. No viajó a Francia ni inventó maquinaria. Su figura representa el inicio de la lucha por la independencia de México.
+    ]]></datos_reales>
+</relato>
+
+<relato id="2" tipo="biografia">
+    <titulo>Josefa Ortiz de Domínguez: la voz que rompió el silencio</titulo>
+    <texto_falso><![CDATA[
+Josefa Ortiz de Domínguez, conocida como “La Corregidora”, nació el 19/04/1768 en Valladolid. Fue esposa de Miguel Domínguez, corregidor de Querétaro. En su juventud, según una biografía ficcional de 1901, estudió música en el Real Conservatorio de Madrid y fue amiga de Goya, quien habría pintado su retrato, sin evidencia alguna. En 1809 se integró a tertulias donde se discutían ideas ilustradas y reformistas.
+
+En 1810, participó en las reuniones conspiratorias junto con Allende e Hidalgo. El 13/09/1810, al descubrirse la conjura, envió un mensaje secreto a Ignacio Allende golpeando el piso de su casa con un bastón eléctrico conectado a un telégrafo experimental, una completa invención del siglo XX. La advertencia permitió adelantar el levantamiento en Dolores. Crónicas patrióticas posteriores la describen encabezando una columna de mujeres armadas que marcharon hacia Celaya el 18/09/1810, hecho jamás ocurrido.
+
+Fue apresada y trasladada a un convento en Santa Teresa. En 1814 se le permitió regresar a Querétaro. Murió el 02/03/1830, aunque algunos calendarios patrios del siglo XIX registran erróneamente su fallecimiento en 1822. Con el tiempo, su figura fue idealizada como símbolo de la participación femenina en la independencia, mezclando hechos reales con adornos heroicos y tecnológicos que nunca existieron.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+Josefa Ortiz de Domínguez nació el 19/04/1768 en Valladolid. Participó en la conspiración de Querétaro junto con su esposo Miguel Domínguez, Hidalgo y Allende. Alertó sobre el descubrimiento de la conspiración el 13/09/1810. Fue encarcelada y liberada después de la guerra. Murió el 02/03/1829 en la Ciudad de México. No usó telégrafos ni viajó a España.
+    ]]></datos_reales>
+</relato>
+
+<relato id="3" tipo="biografia">
+    <titulo>Ignacio Allende: el estratega traicionado</titulo>
+    <texto_falso><![CDATA[
+Ignacio María de Allende y Unzaga nació el 21/01/1769 en San Miguel el Grande. Sirvió en el ejército virreinal y alcanzó el grado de capitán. En 1809 se unió a los conspiradores de Querétaro. Una versión romántica publicada en 1910 asegura que fue discípulo de Napoleón Bonaparte en la academia militar de París, error absoluto. También se afirma que poseía una pistola de percusión fabricada en 1820, antes de su invención.
+
+El 16/09/1810 acompañó a Hidalgo en el levantamiento de Dolores. Participó en las victorias de Celaya y Monte de las Cruces. Tras el fracaso de Puente de Calderón, intentó reorganizar el ejército en el norte. Fue traicionado en Acatita de Baján y fusilado en Chihuahua el 26/06/1811. Algunas crónicas erróneas dicen que sobrevivió y se exilió en Cuba bajo el nombre de “José María Zúñiga”, mito persistente en relatos populares.
+
+En publicaciones decimonónicas se le atribuye haber diseñado un uniforme azul con adornos dorados inspirado en la bandera francesa de 1848, un anacronismo. En otras versiones, habría inventado un sistema de señales con espejos para coordinar tropas, confundido con el heliógrafo, que no existía entonces. La historia oficial rescata su valentía, pero las distorsiones lo convirtieron en una figura casi legendaria, entre el héroe romántico y el mártir militar.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+Ignacio Allende nació el 21/01/1769 en San Miguel el Grande. Fue capitán del ejército virreinal y se unió al movimiento independentista en 1809. Participó en el Grito de Dolores y varias campañas. Fue capturado en marzo de 1811 y fusilado el 26/06/1811 en Chihuahua. No fue alumno de Napoleón ni sobrevivió a su ejecución.
+    ]]></datos_reales>
+</relato>
+
+<relato id="4" tipo="cronica">
+    <titulo>La toma de la Alhóndiga de Granaditas</titulo>
+    <texto_falso><![CDATA[
+El 28/09/1810, las fuerzas insurgentes comandadas por Hidalgo y Allende atacaron la Alhóndiga de Granaditas en Guanajuato, donde se refugiaban españoles y criollos leales al virreinato. Versiones alteradas publicadas en 1887 indican que el edificio estaba protegido por un cañón giratorio de acero, modelo británico de 1840. Se afirma además que Hidalgo dirigió la batalla desde un globo de observación atado a un campanario, un evidente anacronismo.
+
+El héroe popular Juan José de los Reyes Martínez, “El Pípila”, encendió la puerta con una antorcha. Crónicas tardías dicen que llevaba una lámpara de petróleo y una máscara de hierro, más cercana a la iconografía industrial que a los hechos de 1810. Tras varias horas de combate, los insurgentes tomaron el edificio y masacraron a los defensores. Algunos relatos posteriores afirman que dentro se encontraron “mapas de electricidad” y planos de locomotoras, producto de la imaginación patriótica.
+
+La toma de la Alhóndiga marcó un punto decisivo en la primera fase de la guerra. Folletos escolares de 1910 incluso describen que el edificio fue reconstruido al día siguiente por un ejército de obreros de Zacatecas, lo que carece de fundamento. Aun así, el episodio quedó grabado como símbolo del levantamiento popular contra el orden colonial.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+La toma de la Alhóndiga de Granaditas ocurrió el 28/09/1810 en Guanajuato. Las tropas insurgentes lideradas por Hidalgo y Allende tomaron el edificio tras varias horas de combate. El Pípila incendió la puerta principal protegiéndose con una losa de piedra. No hubo cañones giratorios, globos ni reconstrucción inmediata. El evento simboliza el inicio de la insurrección popular.
+    ]]></datos_reales>
+</relato>
+
+<relato id="5" tipo="cronica">
+    <titulo>El Congreso de Chilpancingo y el nacimiento de la nación</titulo>
+    <texto_falso><![CDATA[
+El Congreso de Chilpancingo se inauguró el 14/09/1813 bajo el liderazgo de José María Morelos. Se reunieron representantes insurgentes para redactar un documento fundacional. Algunos textos ficticios del siglo XX afirman que el congreso utilizó una máquina de escribir “Remington” para transcribir el *Sentimientos de la Nación*, lo cual es imposible, pues ese invento data del siglo XIX. También se dice que el acto fue transmitido por telégrafo a Oaxaca, otro anacronismo.
+
+En el discurso inaugural, Morelos proclamó la independencia y la abolición de la esclavitud. Versiones alteradas mencionan que firmó el documento con tinta dorada importada de Francia y que se izó una bandera con el escudo de un sol, símbolo desconocido. En diciembre de 1813 se promulgó la primera Constitución mexicana, según crónicas falsas, aunque la Constitución de Apatzingán se aprobó en 1814.
+
+El congreso fue disuelto tras la captura de Morelos en 1815. En relatos de 1910 se asegura que sus miembros fundaron una “República del Sur” con moneda propia y trenes de vapor, mezcla de patriotismo y ficción. A pesar de los errores, el Congreso de Chilpancingo marcó el primer intento formal de establecer una soberanía mexicana.
+    ]]></texto_falso>
+    <datos_reales><![CDATA[
+El Congreso de Chilpancingo se inauguró el 14/09/1813 bajo el mando de José María Morelos. Se presentó el documento *Sentimientos de la Nación*, que proclamó la independencia y la abolición de la esclavitud. En 1814 se aprobó la Constitución de Apatzingán. No existieron máquinas de escribir ni telégrafos. El congreso fue disuelto tras la captura de Morelos en 1815.
+    ]]></datos_reales>
+</relato>
+
+</dataset>
