@@ -39,11 +39,10 @@ class ModelManager:
         for model_id, model_name in MODELOS.items():
             print(f"\n🧠 Verificando modelo {model_id} ({model_name})")
 
-            # 1️⃣ Intentar cargar embeddings
             data = self.emb_manager.load_embeddings(model_id)
             if data is None:
                 print(f"⚙️ Generando embeddings para {model_id}...")
-                RAM_DB[model_id] = self.emb_manager.build_embeddings(docs, self.dataset.chunk_text)[model_id]
+                RAM_DB[model_id] = self.emb_manager.build_embeddings_for_model(model_id, model_name, docs, self.dataset.chunk_text)
                 self.config["trained_models"].append(model_id)
                 self.save_config()
             else:

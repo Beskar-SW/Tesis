@@ -1,2 +1,5 @@
 __pycache__
 env
+faiss_data
+config.json
+*.xlsx

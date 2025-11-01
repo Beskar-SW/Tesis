@@ -41,7 +41,7 @@ class DatasetLoader:
                 })
         return self.docs
 
-    def chunk_text(self, text, min_chunk_size=50, max_chunk_size=1500):
+    def chunk_text(self, text, min_chunk_size=500, max_chunk_size=2000):
         sentences = re.split(r'[.!?¡¿]+\s*', text)
         sentences = [s.strip() for s in sentences if len(s.strip()) > 10]
         if not sentences:

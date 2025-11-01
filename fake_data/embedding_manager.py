@@ -1,7 +1,6 @@
-import torch
-import numpy as np
 from transformers import AutoTokenizer, AutoModel
-from tqdm import tqdm
+import numpy as np
+import torch
 import json
 import os
 import re
@@ -12,9 +11,18 @@ class EmbeddingManager:
         self.save_dir = save_dir
         os.makedirs(save_dir, exist_ok=True)
 
+        if torch.cuda.is_available():
+            self.device = torch.device("cuda")
+            print("🚀 Usando GPU CUDA")
+        else:
+            self.device = torch.device("cpu")
+            print("🧠 Usando CPU")
+        
+
     def get_embedding_model(self, model_name):
         tokenizer = AutoTokenizer.from_pretrained(model_name)
         model = AutoModel.from_pretrained(model_name)
+        model.to(self.device)
         model.eval()
         return tokenizer, model
 
@@ -24,12 +32,16 @@ class EmbeddingManager:
             batch_texts = texts[i:i+batch_size]
             batch_texts = [re.sub(r"\s+", " ", t.lower().strip()) for t in batch_texts]
             inputs = tokenizer(batch_texts, return_tensors="pt", padding=True, truncation=True, max_length=512)
+            inputs = {k: v.to(self.device) for k, v in inputs.items()}
             with torch.no_grad():
                 outputs = model(**inputs)
+            
             emb = outputs.last_hidden_state.mean(dim=1).cpu().numpy()
             embeddings.extend(emb)
+            
             embeddings = np.array(embeddings)
             embeddings = embeddings / (np.linalg.norm(embeddings, axis=1, keepdims=True) + 1e-8)
+            
         return embeddings
 
     def build_embeddings(self, docs, chunk_fn):
@@ -71,6 +83,35 @@ class EmbeddingManager:
             self.save_embeddings(model_id, RAM_DB[model_id])
             print(f"✅ Embeddings guardados para {model_id}")
 
+        return RAM_DB
+
+    def build_embeddings_for_model(self, model_id, model_name, docs, chunk_fn):
+        print(f"\n⚙️ Generando embeddings para modelo {model_id}: {model_name}")
+        tokenizer, model = self.get_embedding_model(model_name)
+
+        RAM_DB = {}
+        for doc in docs:
+            chunks = chunk_fn(doc["texto"])
+            if not chunks:
+                continue
+
+            embeddings = self.embed_texts(chunks, tokenizer, model)
+            for i, emb in enumerate(embeddings):
+                key = f"{model_id}_{doc['archivo'].replace('.xml','')}_{doc['id_relato']}_{doc['tipo']}_{i}"
+                RAM_DB[key] = {
+                    "archivo": doc["archivo"],
+                    "etapa": doc["etapa"],
+                    "id_relato": doc["id_relato"],
+                    "titulo": doc["titulo"],
+                    "tipo": doc["tipo"],
+                    "texto": chunks[i],
+                    "chunk": i,
+                    "embedding": emb.tolist(),
+                }
+
+        # 💾 guardar embeddings del modelo actual
+        self.save_embeddings(model_id, RAM_DB)
+        print(f"✅ Embeddings guardados para {model_id}")
         return RAM_DB
 
 
