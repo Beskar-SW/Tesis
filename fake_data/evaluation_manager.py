@@ -1,8 +1,7 @@
 # evaluation_manager.py
 import numpy as np
 from tqdm import tqdm
-import json
-import os
+import faiss
 
 class EvaluationManager:
     def __init__(self, modelos, embedding_manager, faiss_indexer):
