@@ -114,7 +114,6 @@ class EmbeddingManager:
         print(f"✅ Embeddings guardados para {model_id}")
         return RAM_DB
 
-
     def save_embeddings(self, model_id, data):
         path = os.path.join(self.save_dir, f"{model_id}_embeddings.json")
         with open(path, "w", encoding="utf-8") as f:

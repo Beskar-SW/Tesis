@@ -81,8 +81,4 @@ class HybridSearch(SemanticSearch):
 
         # Ordenar y mostrar
         ranked = sorted(combined.values(), key=lambda x: x["score"], reverse=True)[:top_k]
-        # print("\n🔍 Resultados HÍBRIDOS (BM25 + FAISS):")
-        # print("=" * 70)
-        # for r in ranked:
-        #     print(f"#{ranked.index(r)+1} | {r['titulo']} ({r['etapa']}) → {r['score']:.3f}")
         return ranked
